@@ -16,7 +16,8 @@ This project is a simple login system built using Windows Forms in C#. It demons
 
 ## 🛠️ **Technologies Used**
 - **C#:** Backend logic for login operations.  
-- **Windows Forms:** For GUI interface development.  
+- **Windows Forms:** For GUI interface development.
+- **Guna UI:** For modern and customizable UI components.  
 - **.NET Framework:** Runtime environment.  
 
 
@@ -34,7 +35,11 @@ This project is a simple login system built using Windows Forms in C#. It demons
    ![image](https://github.com/user-attachments/assets/186b3836-1a1f-4d00-8341-c9f97fec3c41)
 
 2. when he tries more than four times
-   ![image](https://github.com/user-attachments/assets/d73f7a2d-90ee-45b7-87ba-cedb993214ef)
+
+
+  ![image](https://github.com/user-attachments/assets/720bac35-376a-42d1-9164-2453e4da3376)
 
 
 ---
+
+
